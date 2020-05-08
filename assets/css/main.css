@@ -729,11 +729,13 @@ input, select, textarea {
 }
 
 .col-3 {
-	margin-bottom: 2.5em;
+	margin-bottom: 1.5em;
 }
 
 .col-3 i {
-	font-size: 100px;
+	font-size: 60px;
+	display: flex;
+	flex-wrap: nowrap;
 }
 
 /* List */
