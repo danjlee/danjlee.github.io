@@ -1248,7 +1248,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#wrapper {
-				padding-bottom: 8rem;
+				padding-bottom: 6rem;
 				padding-top: 0;
 			}
 
@@ -1482,7 +1482,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#header {
-				padding: 1.5rem 0;
+				padding: 0;
 			}
 
 				#header .content .inner {
