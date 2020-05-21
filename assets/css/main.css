@@ -734,6 +734,7 @@ input, select, textarea {
 }
 
 .row div {
+	display: block;
 	justify-content: center;
 }
 
